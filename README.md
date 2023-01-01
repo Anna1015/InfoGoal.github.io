@@ -10,11 +10,8 @@ small PP
 Align the whole row of images to the right this time:
 <p align="center" width="100%">
     <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
-    <em>image_caption</em>
     <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
-    <em>image_caption</em>
     <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
-    <em>image_caption</em>
 </p>
 
 
@@ -22,7 +19,9 @@ Align the whole row of images to the right this time:
 Align the whole row of images to:
 <p align="center" width="100%">
     <img width="30%" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png">
-    <figcaption>This is my caption text.</figcaption>
+</p>
+<p align = "center">
+Fig. - 4K Mountains Wallpaper
 </p>
 
 
@@ -46,7 +45,6 @@ https://user-images.githubusercontent.com/54625718/210175303-1d4644c6-64aa-43e9-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54625718/210175508-7c9659f0-0251-4efd-a685-7d9272b9a615.gif" alt="animated" />
-   <em>image_caption</em>
 </p>
 
 
