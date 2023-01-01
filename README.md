@@ -13,16 +13,6 @@
 
 
 
-## 3张 Image 排列一行
-
-<img align="left" width="300" height="300" src="https://p.ipic.vip/4fw1p0.jpeg" alt="purple">
-<img align="right" width="300" height="300"src="https://p.ipic.vip/4fw1p0.jpeg" alt="purple">
-
-<p align="center">
-  <img width="300" height="300" src="http://www.fillmurray.com/460/300">
-</p>
-
-
 
 
 ## Image 位于中间位置
