@@ -7,9 +7,24 @@
 
 
 
+## Image 位于中间位置
+
 <p align="center">
   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
+
+
+
+## 3张 Image 排列一行
+
+<img align="left" width="300" height="300" src="https://p.ipic.vip/4fw1p0.jpeg" alt="purple">
+<img align="right" width="300" height="300"src="https://p.ipic.vip/4fw1p0.jpeg" alt="purple">
+
+<p align="center">
+  <img width="300" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+
 
 
 
@@ -17,7 +32,6 @@
 https://user-images.githubusercontent.com/54625718/210175303-1d4644c6-64aa-43e9-8cc7-f118c42c58c3.mp4
 
 
-https://p.ipic.vip/9mnups.gif
 
 
 ## gif
