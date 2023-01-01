@@ -1,8 +1,5 @@
 # InfoGoal.github.io
 
-## Links
-[link text] https://p.ipic.vip/4fw1p0.jpeg
-
 
 ## Image
 <img src="https://p.ipic.vip/4fw1p0.jpeg" alt="purple">
