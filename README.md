@@ -28,11 +28,6 @@ Fig.1 - 4K Mountains Wallpaper
 
 
 
-<figure>
-  <img width="30%" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png">
-  <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
-</figure>
-
 
 
 
@@ -54,6 +49,9 @@ https://user-images.githubusercontent.com/54625718/210175303-1d4644c6-64aa-43e9-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54625718/210175508-7c9659f0-0251-4efd-a685-7d9272b9a615.gif" alt="animated" />
 </p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
 
 
 ## GIF 排列
@@ -63,4 +61,7 @@ Align the whole row of images to the right this time:
     <img width="33%" src="https://p.ipic.vip/9mnups.gif" alt="animated" />
     <img width="33%" src="https://p.ipic.vip/9mnups.gif" alt="animated" />
     <img width="33%" src="https://p.ipic.vip/9mnups.gif" alt="animated" />
+</p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
 </p>
