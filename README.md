@@ -7,11 +7,6 @@
 
 
 
-## Image 位于中间位置
-
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
 
 
 
@@ -24,6 +19,14 @@
   <img width="300" height="300" src="http://www.fillmurray.com/460/300">
 </p>
 
+
+
+
+## Image 位于中间位置
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 
 
