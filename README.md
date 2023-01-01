@@ -9,7 +9,7 @@ small PP
 
 Align the whole row of images to the right this time:
 <p align="center" width="100%">
-    <img width="25%" title="a title" src="https://i.stack.imgur.com/RJj4x.png">
+    [alt text]<img width="25%" title="a title" src="https://i.stack.imgur.com/RJj4x.png">
     <img width="25%" title="a title" src="https://i.stack.imgur.com/RJj4x.png">
     <img width="25%" title="a title" src="https://i.stack.imgur.com/RJj4x.png">
 </p>
