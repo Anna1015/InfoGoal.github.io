@@ -9,16 +9,20 @@ small PP
 
 Align the whole row of images to the right this time:
 <p align="center" width="100%">
-    [alt text]<img width="25%" title="a title" src="https://i.stack.imgur.com/RJj4x.png">
-    <img width="25%" title="a title" src="https://i.stack.imgur.com/RJj4x.png">
-    <img width="25%" title="a title" src="https://i.stack.imgur.com/RJj4x.png">
+    <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
+    <em>image_caption</em>
+    <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
+    <em>image_caption</em>
+    <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
+    <em>image_caption</em>
 </p>
 
 
 
 Align the whole row of images to:
 <p align="center" width="100%">
-    <img width="30%" title="a title" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png">
+    <img width="30%" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png">
+    <em>image_caption</em>
 </p>
 
 
@@ -41,7 +45,8 @@ https://user-images.githubusercontent.com/54625718/210175303-1d4644c6-64aa-43e9-
 ## GIF 中间
 
 <p align="center">
-  <img title="a title" src="https://user-images.githubusercontent.com/54625718/210175508-7c9659f0-0251-4efd-a685-7d9272b9a615.gif" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/54625718/210175508-7c9659f0-0251-4efd-a685-7d9272b9a615.gif" alt="animated" />
+   <em>image_caption</em>
 </p>
 
 
