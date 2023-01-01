@@ -26,8 +26,8 @@ Fig.1 - 4K Mountains Wallpaper
 
 
 
-<figure class="image" align="center">
-  <img width="30%" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png">
+<figure>
+  <img width="30%" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png" align="center">
   <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
 </figure>
 
