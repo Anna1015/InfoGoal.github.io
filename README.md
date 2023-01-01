@@ -13,7 +13,9 @@ Align the whole row of images to the right this time:
     <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
     <img width="25%" src="https://i.stack.imgur.com/RJj4x.png">
 </p>
-
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
 
 
 Align the whole row of images to:
@@ -27,7 +29,7 @@ Fig.1 - 4K Mountains Wallpaper
 
 
 <figure>
-  <img width="30%" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png" align="center">
+  <img width="30%" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png">
   <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
 </figure>
 
