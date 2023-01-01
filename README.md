@@ -2,7 +2,7 @@
 
 
 <p align="center">
-small PP
+大家好，我在联系排版
 </p>
 
 
@@ -25,14 +25,6 @@ Align the whole row of images to:
 <p align = "center">
 Fig.1 - 4K Mountains Wallpaper
 </p>
-
-
-
-
-
-
-## video
-https://user-images.githubusercontent.com/54625718/210175303-1d4644c6-64aa-43e9-8cc7-f118c42c58c3.mp4
 
 
 
