@@ -12,7 +12,7 @@ Align the whole row of images to the right this time:
 
 Align the whole row of images to the right this time:
 <p align="center" width="100%">
-    <img width="80%" src="https://i.stack.imgur.com/RJj4x.png">
+    <img width="60%" src="https://i.stack.imgur.com/RJj4x.png">
 </p>
 
 
