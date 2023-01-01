@@ -18,7 +18,7 @@ Align the whole row of images to the right this time:
 
 Align the whole row of images to:
 <p align="center" width="100%">
-    <img width="60%" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png">
+    <img width="30%" src="https://user-images.githubusercontent.com/54625718/210177243-0989610b-fc28-461a-87df-a77c19ab0032.png">
 </p>
 
 
