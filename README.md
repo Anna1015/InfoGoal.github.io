@@ -2,11 +2,11 @@
 
 
 ## Image
-<img align="left" width="500" height="500" src="https://p.ipic.vip/4fw1p0.jpeg" alt="purple">
+<img align="left" width="400" height="400" src="https://p.ipic.vip/4fw1p0.jpeg" alt="purple">
 
 
 ## Image2
-<img align="right" width="500" height="500"src="https://p.ipic.vip/4fw1p0.jpeg" alt="purple">
+<img align="right" width="400" height="400"src="https://p.ipic.vip/4fw1p0.jpeg" alt="purple">
 
 
 
