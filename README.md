@@ -50,9 +50,9 @@ Fig.1 - 4K Mountains Wallpaper
 
 Align the whole row of images to the right this time:
 <p align="center" width="100%">
-    <img width="33%" src="https://p.ipic.vip/9mnups.gif" alt="animated" />
-    <img width="33%" src="https://p.ipic.vip/9mnups.gif" alt="animated" />
-    <img width="33%" src="https://p.ipic.vip/9mnups.gif" alt="animated" />
+    <img width="30%" src="https://p.ipic.vip/9mnups.gif" alt="animated" />
+    <img width="30%" src="https://p.ipic.vip/9mnups.gif" alt="animated" />
+    <img width="30%" src="https://p.ipic.vip/9mnups.gif" alt="animated" />
 </p>
 <p align = "center">
 Fig.1 - 4K Mountains Wallpaper
